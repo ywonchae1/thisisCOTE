@@ -1,3 +1,6 @@
+#greedy
+#ATM
+
 n = int(input())
 time = list(map(int, input().split()))
 
